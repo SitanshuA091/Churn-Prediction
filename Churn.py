@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import joblib
-model = joblib.load(r"model.sav")
+import pickle
+model = pickle.load(open("model.sav", 'rb')
 
 
 from Preprocessing import preprocess
