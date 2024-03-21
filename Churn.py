@@ -6,7 +6,7 @@ import pickle
 model = pickle.load(open("model.sav", 'rb')
 
 
-from Preprocessing import preprocess
+from Preprocessing import preprocess 
 
 
 def main():
