@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 import pickle
-model = pickle.load(open("model.sav", 'rb')
+model = pickle.load(open("model.sav", 'rb'))
 from Preprocessing import preprocess 
 
 
