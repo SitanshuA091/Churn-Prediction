@@ -6,5 +6,4 @@
 - The jupyter notebook file has the extensive EDA and all the preprocessing steps (handling missing values, null values, categorical data and balancing of the dataset)
 - The model is saved as a .SAV file
 - the data directory has the raw dataset as well as the preprocessed training features dataset, and the target dataset
-[readme1](https://github.com/SitanshuA091/Churn-Prediction/assets/109926055/90658d3c-c792-4d1a-9c9d-92a760bb7e8c)
   
